@@ -1,0 +1,2 @@
+# hatena
+for blog.
